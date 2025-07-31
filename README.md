@@ -1,4 +1,4 @@
-# BikeStore Sales Analysis
+# BikeStore Sales Analysis with Excel
 
 ## Overview
 This repository contains the code and data for analyzing BikeStore sales in the USA. The project explores sales trends, customer behaviors, and product performance using a combination of Excel for data analysis and Tableau for dynamic visualizations.
